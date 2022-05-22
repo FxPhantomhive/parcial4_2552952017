@@ -4,7 +4,7 @@ Proyecto marcadores de pocision en Flutter con Google Maps API correspondiente a
 
 ## Integrantes
 
-<p>Felix Ivan Melendez Alfaro   </p><Strong>25-5295-2017</Strong>
+<p>Felix Ivan Melendez Alfaro   <Strong>25-5295-2017</Strong></p>
 
 ## Getting Started
 
