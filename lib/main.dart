@@ -61,7 +61,9 @@ class _Parcial4State extends State<Parcial4> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(),
+        appBar: AppBar(
+          title: Text("P4 Google Maps API 25-5295-2017"),
+        ),
         body: Container(
           width: 360,
           height: 700,
