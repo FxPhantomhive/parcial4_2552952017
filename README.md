@@ -1,6 +1,10 @@
-# parcial4_2552952017
+# parcial4 2552952017
 
-A new Flutter project.
+Proyecto marcadores de pocision en Flutter con Google Maps API correspondiente a Parcial 4
+
+## Integrantes
+
+<p>Felix Ivan Melendez Alfaro   </p><Strong>25-5295-2017</Strong>
 
 ## Getting Started
 
